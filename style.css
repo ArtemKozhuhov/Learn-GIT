@@ -11,8 +11,10 @@ h1 {
 
 div {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 20px;
   width: 500px;
   height: 300px;
   border: solid 2px blue;
